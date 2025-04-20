@@ -9,7 +9,7 @@
 
 Успехов!
 
- [Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2Flogic1-23%2Ftask4.pdf&name=task4.pdf&uid=246453&nosw=1) 
+ [Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2Flogic1-23%2Ftask5.pdf&name=task5.pdf&uid=246453&nosw=1) 
 
 
 [Таблица с результатами](https://docs.google.com/spreadsheets/d/1hWs-h_UE4exrvA1FCt9DGwIyGDuvBcTa66hMARPSbEQ/edit?gid=0#gid=0)
